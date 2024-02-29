@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&family=Roboto+Slab:wght@100..900&display=swap');
+
+body{
+    text-align: center;
+    
+}
+
+#first{
+    height: 20vw;
+}
+
+h1{
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    font-style: normal;
+}
